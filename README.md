@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**Shubham071122/Shubham071122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a MERN Stack developer at Beayondriff. 
 
 - 🔭 I’m currently working in Beyondriff
 - 🌱 I’m currently learning Next.js
