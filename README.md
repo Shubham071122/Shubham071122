@@ -8,7 +8,7 @@ I am a MERN Stack developer currently working at Beyondriff. With a passion for 
 - 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **MERN Stack** projects
 - 💬 Ask me about **React, JavaScript, Node.js, and DSA**
-- 📫 How to reach me: **shubhamkumar@gmail.com**
+- 📫 How to reach me: **shubhamkumar.work3@gmail.com**
 - 😄 Pronouns: **he/him**
 
 ## My Projects
