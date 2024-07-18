@@ -40,5 +40,5 @@ A movie and TV series rating app utilizing the TMDB API. Users can:
 Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to chat about tech!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/shubhamkumar0711)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Shubham071122)
+[![GitHub](https://img.shields.io/badge/-GitHub-gray)](https://github.com/Shubham071122)
 
