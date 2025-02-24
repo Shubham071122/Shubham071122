@@ -11,6 +11,8 @@ I am constantly learning and exploring new technologies, including **AI/ML model
 ### 🔥 Current Roles:
 - **Full-Stack Developer at Rupeestop**
 
+![Profile Views](https://komarev.com/ghpvc/?username=Shubham071122&style=flat-square)
+
 ---
 
 ## 🛠 Tech Stack
