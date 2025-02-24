@@ -49,6 +49,11 @@ I am constantly learning and exploring new technologies, including **AI/ML model
 ### 🤖 AI/ML & NLP
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0057D9?style=for-the-badge&logo=deepseek&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge&logo=langchain&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-800080?style=for-the-badge&logo=llama&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF4500?style=for-the-badge&logo=transformers&logoColor=white)
 
 ---
 
