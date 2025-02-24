@@ -1,44 +1,75 @@
 # Hi there, I'm Shubham 👋
 
-## About Me
+## 🚀 About Me
 
-I am a MERN Stack developer currently working at Beyondriff. With a passion for creating functional and user-centric web applications, I have developed several projects that showcase my expertise and dedication to continuous learning and innovation.
+I am a **Full-Stack Developer** and **DevOps Enthusiast** with a passion for building scalable, efficient, and high-performance applications. Currently, I work at **Rupeestop** , where I develop and optimize modern web applications, ensuring seamless user experiences and robust backend systems. 
 
-- 🔭 I’m currently working at **Beyondriff**
-- 🌱 I’m currently learning **Next.js**
-- 👯 I’m looking to collaborate on **MERN Stack** projects
-- 💬 Ask me about **React, JavaScript, Node.js, and DSA**
-- 📫 How to reach me: **shubhamkumar.work3@gmail.com**
-- 😄 Pronouns: **he/him**
+I have a strong foundation in **frontend and backend** development, cloud technologies, and DevOps practices. My expertise spans across multiple programming languages, frameworks, and tools, allowing me to develop full-fledged applications from scratch.
 
-## My Projects
+I am constantly learning and exploring new technologies, including **AI/ML models** such as **Hugging Face** and **Gemini**, to enhance my skills and contribute to innovative projects. My goal is to build impactful digital solutions that make a difference.
 
-### 🚀 [Streamify](https://github.com/Shubham071122/streamify)
-A video streaming platform where users can:
-- Publish videos
-- Watch videos
-- Like and comment on videos
-- Subscribe to channels
+### 🔥 Current Roles:
+- **Full-Stack Developer at Rupeestop**
 
-**Technologies Used:** React, JavaScript, Tailwind, Express, Node.js, MongoDB
+---
 
-### ⭐ [View Vista](https://github.com/Shubham071122/viewvista)
-A movie and TV series rating app utilizing the TMDB API. Users can:
-- Browse and search for movies and TV series
-- Rate and review their favorites
+## 🛠 Tech Stack
 
-**Technologies Used:** React, Tailwind, Redux, TMDB API
+### 🚀 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## What I’m Up To
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- 🌟 **Intern as a Frontend Developer:** Enhancing my skills and working on real-world projects.
-- 🛠 **Real-Time Chat Application:** Building a MERN stack application with a friend request system.
-- 🌐 **Deploying Fullstack Websites:** Frontend on Netlify, backend on Vercel, and database using MongoDB Atlas.
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Let's Connect
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![DNS Management](https://img.shields.io/badge/DNS%20Management-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to chat about tech!
+### 🤖 AI/ML & NLP
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/shubhamkumar0711)
-[![GitHub](https://img.shields.io/badge/-GitHub-gray)](https://github.com/Shubham071122)
+---
 
+## 📌 Projects
+
+### 🎥 [Streamify](https://github.com/Shubham071122/streamify)
+A video streaming platform with features like **publishing, watching, liking, and subscribing**.
+
+### 🎬 [View Vista](https://github.com/Shubham071122/viewvista)
+A movie & TV series rating app using **React, Tailwind, and TMDB API**.
+
+### 💬 Real-Time Chat App *(In Progress)*
+A **MERN stack** chat app with real-time messaging and friend request system.
+
+---
+
+## 📢 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkumar0711)
+[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham071122)
+[![Email](https://img.shields.io/badge/Email-shubhamkumar.work3%40gmail.com-red?style=for-the-badge)](mailto:shubhamkumar.work3@gmail.com)
+
+---
+
+Feel free to reach out for collaborations, discussions, or just to connect!
