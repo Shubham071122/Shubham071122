@@ -1,15 +1,14 @@
 # Hi there, I'm Shubham 👋
 
 ## 🚀 About Me
+I'm a **Full-Stack Developer** and **DevOps Enthusiast** with a focus on building reliable web applications and managing scalable infrastructure. 
+I work across the stack — writing clean frontend code, building REST APIs, and setting up CI/CD pipelines with Docker and cloud services.  
 
-I am a **Full-Stack Developer** and **DevOps Enthusiast** with a passion for building scalable, efficient, and high-performance applications. Currently, I work at **Rupeestop** , where I develop and optimize modern web applications, ensuring seamless user experiences and robust backend systems. 
-
-I have a strong foundation in **frontend and backend** development, cloud technologies, and DevOps practices. My expertise spans across multiple programming languages, frameworks, and tools, allowing me to develop full-fledged applications from scratch.
-
-I am constantly learning and exploring new technologies, including **AI/ML models** such as **Hugging Face** and **Gemini**, to enhance my skills and contribute to innovative projects. My goal is to build impactful digital solutions that make a difference.
+I’ve also been exploring **AI/ML models** like **Hugging Face** and **Gemini** to expand my skills beyond traditional development.  
+Always learning, always shipping.
 
 ### 🔥 Current Roles:
-- **Full-Stack Developer at Rupeestop**
+- **Full-Stack Developer**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubham071122&style=flat-square)
 
