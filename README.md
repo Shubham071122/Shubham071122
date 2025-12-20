@@ -58,19 +58,6 @@ Always learning, always shipping.
 
 ---
 
-## 📌 Projects
-
-### 🎥 [Streamify](https://github.com/Shubham071122/streamify)
-A video streaming platform with features like **publishing, watching, liking, and subscribing**.
-
-### 🎬 [View Vista](https://github.com/Shubham071122/viewvista)
-A movie & TV series rating app using **React, Tailwind, and TMDB API**.
-
-### 💬 Real-Time Chat App *(In Progress)*
-A **MERN stack** chat app with real-time messaging and friend request system.
-
----
-
 ## 📢 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkumar0711)
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham071122)
