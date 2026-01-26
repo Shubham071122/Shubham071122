@@ -1,14 +1,21 @@
-# Hi there, I'm Shubham 👋
+# Hi, I'm Shubham 👋
 
-## 🚀 About Me
-I'm a **Full-Stack Developer** and **DevOps Enthusiast** with a focus on building reliable web applications and managing scalable infrastructure. 
-I work across the stack — writing clean frontend code, building REST APIs, and setting up CI/CD pipelines with Docker and cloud services.  
+Full-Stack Developer with hands-on experience building scalable web applications and backend systems.  
+I enjoy working across the stack — from clean UI to solid APIs and cloud deployments.
 
-I’ve also been exploring **AI/ML models** like **Hugging Face** and **Gemini** to expand my skills beyond traditional development.  
-Always learning, always shipping.
+I focus on writing maintainable code, understanding systems deeply, and shipping reliable features.  
+Currently exploring backend architecture, DevOps workflows, and applied AI use-cases.
 
-### 🔥 Current Roles:
-- **Full-Stack Developer**
+When I’m not coding, you’ll probably find me **watching Netflix** or **tracking the market and trading** 📈
+
+---
+
+## 👨‍💻 What I Do
+- Build full-stack web applications  
+- Design and develop REST APIs  
+- Work with cloud infrastructure and Docker  
+- Set up CI/CD pipelines  
+- Experiment with AI-powered features (RAG, LLMs)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubham071122&style=flat-square)
 
@@ -16,53 +23,43 @@ Always learning, always shipping.
 
 ## 🛠 Tech Stack
 
-### 🚀 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![DNS Management](https://img.shields.io/badge/DNS%20Management-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-### 🤖 AI/ML & NLP
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0057D9?style=for-the-badge&logo=deepseek&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge&logo=langchain&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-800080?style=for-the-badge&logo=llama&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF4500?style=for-the-badge&logo=transformers&logoColor=white)
+### AI / LLM Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD700?style=flat&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
 
 ---
 
-## 📢 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkumar0711)
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham071122)
-[![Email](https://img.shields.io/badge/Email-shubhamkumar.work3%40gmail.com-red?style=for-the-badge)](mailto:shubhamkumar.work3@gmail.com)
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkumar0711)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shubham071122)
+[![Email](https://img.shields.io/badge/Email-red?style=flat)](mailto:shubhamkumar.work3@gmail.com)
 
 ---
 
-Feel free to reach out for collaborations, discussions, or just to connect!
+⭐ Always learning, building, and occasionally debugging things that worked five minutes ago.
