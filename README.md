@@ -62,4 +62,4 @@ When I’m not coding, you’ll probably find me **watching Netflix** or **track
 
 ---
 
-⭐ Always learning, building, and occasionally debugging things that worked five minutes ago.
+⭐ Always learning, building, and occasionally debugging things that worked five minutes ago.😌
