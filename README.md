@@ -57,7 +57,6 @@ When I’m not coding, you’ll probably find me **watching Netflix** or **track
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkumar0711)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shubham071122)
 [![Email](https://img.shields.io/badge/Email-red?style=flat)](mailto:shubhamkumar.work3@gmail.com)
 
 ---
