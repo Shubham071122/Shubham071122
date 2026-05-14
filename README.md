@@ -10,12 +10,19 @@ When I’m not coding, you’ll probably find me **watching Netflix** or **track
 
 ---
 
+## 📚 Current Focus
+
+- Learning **Go (Golang)** and building high-concurrency backend services  
+- Understanding distributed systems and scalable backend architecture  
+- Exploring AI-powered applications using LLMs and RAG pipelines  
+
 ## 👨‍💻 What I Do
-- Build full-stack web applications  
-- Design and develop REST APIs  
-- Work with cloud infrastructure and Docker  
-- Set up CI/CD pipelines  
-- Experiment with AI-powered features (RAG, LLMs)
+
+- Build full-stack web applications using React, Next.js, and Node.js  
+- Design and develop REST APIs and backend services  
+- Work with databases, cloud infrastructure, and Docker  
+- Set up deployment workflows and CI/CD pipelines  
+- Build and integrate AI-powered features into applications  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubham071122&style=flat-square)
 
@@ -27,6 +34,7 @@ When I’m not coding, you’ll probably find me **watching Netflix** or **track
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
