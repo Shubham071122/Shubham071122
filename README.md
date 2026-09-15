@@ -1,33 +1,9 @@
-### Shubham Kumar
+I am a **software engineer** focused on **backend engineering, system design, and cloud infrastructure**. Currently, I am an **SDE 1 at Acowale**, where I work on backend systems for an ERP platform, building **APIs, database systems, access control**, and services around the product.
 
-Full-stack developer with a backend focus. I build and ship complete web applications — clean APIs, solid databases, cloud deployments, and whatever frontend the product needs.
+Outside of work, I spend most of my time **building and experimenting with software**. I am currently building **Collab**, a real-time collaborative whiteboard using **Go, WebSockets, PostgreSQL, and Next.js**. It has also been my way of going deeper into **concurrency, real-time systems**, and designing backend services that handle multiple users and shared state.
 
-Currently exploring Go, distributed systems, and cloud architecture.
+I enjoy diving deep into **engineering fundamentals** and understanding how things work underneath the abstractions. My areas of interest include **backend systems, databases, distributed systems, concurrency, system design, and cloud infrastructure**.
 
----
+I am currently exploring **Go and distributed systems**, while continuing to work with **Node.js, TypeScript, PostgreSQL, Redis, Docker, and AWS**.
 
-### Stack
-
-**Languages** — TypeScript, JavaScript, Go, Python
-
-**Backend** — Node.js, Express, REST APIs
-
-**Frontend** — React, Next.js, Tailwind CSS
-
-**Databases** — PostgreSQL, MongoDB, MySQL, DynamoDB
-
-**Cloud & DevOps** — AWS, Docker, Nginx, GitHub Actions
-
----
-
-### Currently
-
-- Building high-concurrency backend services in Go
-- Studying distributed systems and scalable architecture
-- Exploring AWS services and cloud-native infrastructure
-
----
-
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/shubhamkumar0711) · [Email](mailto:shubhamkumar.work3@gmail.com)
+Most of what I learn comes from **building** — some projects become something useful, some stay experiments, but every project leaves me with a better understanding of **how software actually works**.
