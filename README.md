@@ -1,4 +1,4 @@
-I am a **software engineer** focused on **backend engineering, system design, and cloud infrastructure**. Currently, I am an **SDE 1 at Acowale**, where I work on backend systems for an ERP platform, building **APIs, database systems, access control**, and services around the product.
+I am a **software engineer** focused on **backend engineering, system design, and cloud infrastructure**. Currently, I am a **SDE 1 at Acowale**, where I work on backend systems for an ERP platform, building **APIs, database systems, access control**, and services around the product.
 
 Outside of work, I spend most of my time **building and experimenting with software**. I am currently building **Collab**, a real-time collaborative whiteboard using **Go, WebSockets, PostgreSQL, and Next.js**. It has also been my way of going deeper into **concurrency, real-time systems**, and designing backend services that handle multiple users and shared state.
 
